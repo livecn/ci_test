@@ -6,7 +6,7 @@
 </p>
 
 <p>
-    编辑数据库配置文件，位置config/database.sql
+    编辑数据库配置文件，位置application/config/database.sql
 </p>
 
 
