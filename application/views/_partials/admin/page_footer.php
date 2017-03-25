@@ -6,5 +6,5 @@
         Memory Usage: <strong>{memory_usage}</strong>
     <?php endif; ?>
 </div>
-<strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
+<strong>Copyright &copy; 2014-2017 .</strong> All rights
 reserved.
