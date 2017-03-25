@@ -1,10 +1,33 @@
 
-<h1>Manual book</h1>
+<h2>安装提示</h2>
 
 <p>
-    Import sql file (sql/latest.sql)
+    导入sql文件，位置sql/latest.sql
 </p>
 
 <p>
-    Edit database config file (config/database.sql)
+    编辑数据库配置文件，位置config/database.sql
 </p>
+
+
+<h2>包含模块</h2>
+<p>
+    接口测试工具
+</p>
+
+<p>
+    后台权限管理系统
+</p>
+
+
+<h2>Todo List</h2>
+
+<p>
+    代码整理
+</p>
+
+<p>
+    功能完善
+</p>
+
+
